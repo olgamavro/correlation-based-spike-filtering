@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+torch
+pyaudio
+keyboard
+speech2spikes
+samna
