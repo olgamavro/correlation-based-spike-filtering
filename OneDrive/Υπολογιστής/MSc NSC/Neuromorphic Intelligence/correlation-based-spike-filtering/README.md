@@ -57,3 +57,4 @@ The experiments were designed for the DYNAP-SE1 neuromorphic processor and requi
 
 
 The code provides the network configuration, stimulus generation, recording, analysis, and plotting steps used in the report.
+
