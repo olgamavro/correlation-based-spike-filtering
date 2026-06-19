@@ -1,5 +1,0 @@
-Metadata-Version: 2.4
-Name: dynapse-experiments
-Version: 0.1.0
-Summary: Correlation-based spike filtering experiments on DYNAP-SE1
-Requires-Python: >=3.9
